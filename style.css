@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color:#98FB98;
+}
+.row{
+    display: flex;
+    justify-content:center;
+    
+    /* align-items: center; */
+}
+.rows{
+    margin-top: 50px;
+}
+.box{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    width:75px;
+    height: 75px;
+    border-radius: 1rem;
+    border: 2px solid black;
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+    background-color:#ffffc7;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+}
+.st{
+    background-color: #191913;
+    color: white;
+    border-radius: 0.7rem;
+    width:100px;
+}
